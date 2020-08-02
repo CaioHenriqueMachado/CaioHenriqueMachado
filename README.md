@@ -12,13 +12,13 @@
 
 
 <h2> :books: I’m currently learning:</h2>
- - [X] Python(Data analysis)
+ - [x] Python(Data analysis)
 <br>
-- [X] JavaScript
+- [x] JavaScript
 <br>
-- [X] NodeJs
+-[X] NodeJs
 <br>
-- [X] ReactJs
+-[x] ReactJs
 <br>
 - [X] ReactNative
 <br>
