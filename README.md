@@ -12,67 +12,67 @@
 
 
 <h2> :books: I’m currently learning:</h2>
-[x] Python(Data analysis)
+- [X] Python(Data analysis)
 <br>
-[X] JavaScript
+- [X] JavaScript
 <br>
-[X] NodeJs
+- [X] NodeJs
 <br>
-[X] ReactJs
+- [X] ReactJs
 <br>
-[X] ReactNative
+- [X] ReactNative
 <br>
-[X] HTML
+- [X] HTML
 <br>
-[X] CSS
+- [X] CSS
 
 <h2> :pushpin: I'm currently working with:</h2>
 (obs: Descrição em português por enquanto :grimacing:)
-[X] Lista de desafios para aprender linguagem C.(:point_right: )
+- [X] Lista de desafios para aprender linguagem C.(:point_right: )
 <br>
-[X] Lista de desafios e ensinamentos básicos Python .(:point_right: )
+- [X] Lista de desafios e ensinamentos básicos Python .(:point_right: )
 <br>
-[X] Artigo Ciêntifico sobre Evolução Molecular Computacional.(:point_right: )
+- [X] Artigo Ciêntifico sobre Evolução Molecular Computacional.(:point_right: )
 <br>
-[X] Sistema de doação monetária.(:point_right: )
+- [X] Sistema de doação monetária.(:point_right: )
 <br>
-[X] Sistema de coleta de lixo.
+- [X] Sistema de coleta de lixo.
 <br>
-[X] Sistema de organização de tarefas.
+- [X] Sistema de organização de tarefas.
 <br>
-[X] Sistema de localização de desenvolvedores.
+- [X] Sistema de localização de desenvolvedores.
 <br>
-[X] Quiz sobre atividades físicas na pandemia.
+- [X] Quiz sobre atividades físicas na pandemia.
 <br>
-[X] Templates WebSites.
+- [X] Templates WebSites.
 <br>
-[X] Sistema de previsão do tempo.
+- [X] Sistema de previsão do tempo.
 <br>
-[X] Sistema conversor de base numérica.
+- [X] Sistema conversor de base numérica.
 <br>
-[X] Calculadoras básica Web.
+- [X] Calculadoras básica Web.
 <br>
-[] Sistema integração da bolsa de valores.
+- [] Sistema integração da bolsa de valores.
 <br>
-[ ] Sistema temporizador de contagem regressiva de eventos.
+- [ ] Sistema temporizador de contagem regressiva de eventos.
 <br>
-[ ] Sistema conversor de CSV para JSON (e vice-versa).
+- [ ] Sistema conversor de CSV para JSON (e vice-versa).
 <br>
-[ ] Jogo da memória.
+- [ ] Jogo da memória.
 <br>
-[ ] Sistema conversor de moedas.
+- [ ] Sistema conversor de moedas.
 <br>
-[ ] Sistema velocímetro de digitação.
+- [ ] Sistema velocímetro de digitação.
 <br>
-[ ] Calendário.
+- [ ] Calendário.
 <br>
-[ ] Chat em temo real.
+- [ ] Chat em temo real.
 <br>
-[ ] Automação de respostas do WhatsApp.
+- [ ] Automação de respostas do WhatsApp.
 <br>
-[ ] Automação do instagram.
+- [ ] Automação do instagram.
 <br>
-[] Sistema criador de Layout de site.
+- [] Sistema criador de Layout de site.
 <br>
 <!--
 **CaioHenriqueMachado/CaioHenriqueMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
