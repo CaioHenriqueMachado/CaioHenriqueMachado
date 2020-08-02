@@ -12,7 +12,7 @@
 
 
 <h2> :books: I’m currently learning:</h2>
-- [X] Python(Data analysis)
+ - [X] Python(Data analysis)
 <br>
 - [X] JavaScript
 <br>
