@@ -1,7 +1,7 @@
 ## Hi there, I'm Caio!! 👋
 ### Welcome to my profile!!
 
-[![](https://img.shields.io/static/v1?label=FACEBOOK&message=caio&color=blue?style=plastic&logo=appveyor)](https://github.com/CaioHenriqueMachado)
+[![Lin](https://img.shields.io/badge/FACEBOOK-caio-blue?style=plastic&logo=appveyor)](https://github.com/CaioHenriqueMachado)
 <!--
 **CaioHenriqueMachado/CaioHenriqueMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
