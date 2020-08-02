@@ -12,19 +12,19 @@
 
 
 <h2> :books: I’m currently learning:</h2>
- - [x] Python(Data analysis)
+ :white_square_button: Python(Data analysis)
 <br>
-- [x] JavaScript
+ :white_square_button: JavaScript
 <br>
--[X] NodeJs
+ :white_large_square: NodeJs
 <br>
--[x] ReactJs
+ :black_square_button: ReactJs
 <br>
-- [X] ReactNative
+ :black_square_button: ReactNative
 <br>
-- [X] HTML
+ :black_large_square: HTML
 <br>
-- [X] CSS
+ :black_large_square: CSS
 
 <h2> :pushpin: I'm currently working with:</h2>
 (obs: Descrição em português por enquanto :grimacing:)
