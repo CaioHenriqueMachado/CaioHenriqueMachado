@@ -1,7 +1,10 @@
 ## Hi there, I'm Caio!! 👋
 ### Welcome to my profile!!
 
-[![Lin](https://img.shields.io/badge/FACEBOOK-caio-blue?style=plastic&logo=appveyor)](https://github.com/CaioHenriqueMachado)
+[![](https://img.shields.io/badge/LINKEDIN-Caio_Machado-informational?style=plastic&logo=linkedin?labelColor=black)](https://www.linkedin.com/in/caiohmachadoo/)
+[![](https://img.shields.io/badge/FACEBOOK-Caio_Machado-blue?style=plastic&logo=facebook)](https://www.facebook.com/Caio.Henri.Machado/)
+[![](https://img.shields.io/badge/INSTAGRAM-@cai0__m-blueviolet?style=plastic&logo=instagram)](https://www.instagram.com/cai0_m/)
+
 <!--
 **CaioHenriqueMachado/CaioHenriqueMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
