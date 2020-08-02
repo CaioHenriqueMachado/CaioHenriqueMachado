@@ -4,12 +4,14 @@
 <br>
 <br>
 
-<hr>
+
 <h2 >📫 How to reach me:</h2>
+
 [![](https://img.shields.io/badge/LINKEDIN-Caio_Machado-informational?style=plastic&logo=linkedin)](https://www.linkedin.com/in/caiohmachadoo/)
 [![](https://img.shields.io/badge/FACEBOOK-Caio_Machado-blue?style=plastic&logo=facebook)](https://www.facebook.com/Caio.Henri.Machado/)
 [![](https://img.shields.io/badge/INSTAGRAM-@cai0__m-blueviolet?style=plastic&logo=instagram)](https://www.instagram.com/cai0_m/)
-<hr>
+
+
 <br>
 <br>
 
@@ -27,6 +29,7 @@
 [![](https://img.shields.io/badge/HTML-#E34F26?style=plastic&logo=html5)]
 <br>
 [![](https://img.shields.io/badge/CSS-#1572B6?style=plastic&logo=css3)]
+
 <hr>
 <br>
 <br>
