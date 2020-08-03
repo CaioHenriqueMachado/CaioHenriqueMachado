@@ -18,20 +18,20 @@
 
 <h2> :books: I’m currently learning:</h2>
 
-![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)
+[![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)](https://github.com/CaioHenriqueMachado)
 
 
-![](https://img.shields.io/badge/__-JavaScript-#F7DF1E?style=plastic&logo=javascript)
-
-<br/>
-
-![](https://img.shields.io/badge/__-NodeJs-#339933?style=plastic&logo=nodejs)
+[![](https://img.shields.io/badge/__-JavaScript-#F7DF1E?style=plastic&logo=javascript)](https://github.com/CaioHenriqueMachado)
 
 <br/>
 
-![](https://img.shields.io/badge/__-ReactJs-#61DAFB?style=plastic&logo=react)
+[![](https://img.shields.io/badge/__-NodeJs-#339933?style=plastic&logo=nodejs)](https://github.com/CaioHenriqueMachado)
 
-<br>
+<br/>
+
+[![](https://img.shields.io/badge/ReactJs-#61DAFB?style=plastic&logo=react)](https://github.com/CaioHenriqueMachado)
+
+
 
 ![](https://img.shields.io/badge/__-ReactNative-#0088CC?style=plastic&logo=react)
 <br>
