@@ -10,16 +10,22 @@
 [![](https://img.shields.io/badge/LINKEDIN-Caio_Machado-informational?style=plastic&logo=linkedin)](https://www.linkedin.com/in/caiohmachadoo/)
 [![](https://img.shields.io/badge/FACEBOOK-Caio_Machado-blue?style=plastic&logo=facebook)](https://www.facebook.com/Caio.Henri.Machado/)
 [![](https://img.shields.io/badge/INSTAGRAM-@cai0__m-blueviolet?style=plastic&logo=instagram)](https://www.instagram.com/cai0_m/)
-
+<br>
+<hr/>
 
 <br>
 <br>
 
 <h2> :books: I’m currently learning:</h2>
-[![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)](#)
+
+[![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)]
+
 <br>
-[![](https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=javascript)](#)
+
+[![](https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=javascript)]()
+
 <br>
+
 [![](https://img.shields.io/badge/NodeJs-#339933?style=plastic&logo=nodejs)](#)
 <br>
 [![](https://img.shields.io/badge/ReactJs-#61DAFB?style=plastic&logo=react)](#)
