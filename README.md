@@ -18,7 +18,7 @@
 
 <h2> :books: I’m currently learning:</h2>
 
-[![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)]
+![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)
 
 <br>
 
@@ -26,10 +26,14 @@
 
 <br>
 
-[![](https://img.shields.io/badge/NodeJs-#339933?style=plastic&logo=nodejs)](#)
+![](https://img.shields.io/badge/NodeJs-#339933?style=plastic&logo=nodejs)()
+
 <br>
-[![](https://img.shields.io/badge/ReactJs-#61DAFB?style=plastic&logo=react)](#)
+
+![](https://img.shields.io/badge/ReactJs-#61DAFB?style=plastic&logo=react)
+
 <br>
+
 [![](https://img.shields.io/badge/ReactNative-#0088CC?style=plastic&logo=react)](#)
 <br>
 [![](https://img.shields.io/badge/HTML-#E34F26?style=plastic&logo=html5)](#)
