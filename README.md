@@ -21,18 +21,18 @@
 [![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)](https://github.com/CaioHenriqueMachado)
 
 
-[![](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=plastic&logo=python)](https://github.com/CaioHenriqueMachado)
+[![](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=plastic&logo=javascript)](https://github.com/CaioHenriqueMachado)
 
 <br>
 
-[![](https://img.shields.io/badge/Language-NodeJs-339933?style=plastic&logo=nodejs)](https://github.com/CaioHenriqueMachado)
+[![](https://img.shields.io/badge/Language-NodeJs-339933?style=plastic&logo=node-dot-js)](https://github.com/CaioHenriqueMachado)
 
 ![](https://img.shields.io/badge/__-ReactJs-61DAFB?style=plastic&logo=react)
 
 
-[![](https://img.shields.io/badge/dsd-ReactNative-0088CC?style=plastic&logo=react)](https://github.com/CaioHenriqueMachado)
+[![](https://img.shields.io/badge/dsd-ReactNative-0088CC?style=plastic&logo=reactos)](https://github.com/CaioHenriqueMachado)
 
-[![](https://img.shields.io/badge/__-HTML-E34F26?style=plastic&logo=html5)](https://github.com/CaioHenriqueMachado)
+[![](https://img.shields.io/badge/_-HTML-E34F26?style=plastic&logo=html5)](https://github.com/CaioHenriqueMachado)
 <br>
 [![](https://img.shields.io/badge/sa-CSS-1572B6?style=plastic&logo=css3)](https://github.com/CaioHenriqueMachado)
 
