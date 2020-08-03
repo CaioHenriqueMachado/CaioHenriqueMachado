@@ -21,10 +21,11 @@
 [![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)](https://github.com/CaioHenriqueMachado)
 
 
-[![](https://img.shields.io/badge/Language-JavaScript-#F7DF1E?style=plastic&logo=javascript)](https://github.com/CaioHenriqueMachado)
+[![](https://img.shields.io/badge/Language-JavaScript-#F7DF1E?style=plastic&logo=python)](https://github.com/CaioHenriqueMachado)
 
+<br>
 
-[![](https://img.shields.io/badge/Language-NodeJs-#339933?style=plastic&logo=nodejs)](https://github.com/CaioHenriqueMachado)
+[![](https://img.shields.io/badge/Language-NodeJs-#339933?style=plastic&logo=python)](https://github.com/CaioHenriqueMachado)
 
 [![](https://img.shields.io/badge/Language-ReactJs-#61DAFB?style=plastic&logo=react)](https://github.com/CaioHenriqueMachado)
 
