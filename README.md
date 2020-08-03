@@ -20,25 +20,24 @@
 
 ![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)
 
-<br>
 
 ![](https://img.shields.io/badge/__-JavaScript-#F7DF1E?style=plastic&logo=javascript)
 
-<br>
+<br/>
 
 ![](https://img.shields.io/badge/__-NodeJs-#339933?style=plastic&logo=nodejs)
 
-<br>
+<br/>
 
 ![](https://img.shields.io/badge/__-ReactJs-#61DAFB?style=plastic&logo=react)
 
 <br>
 
-![](https://img.shields.io/badge/__-ReactNative-#0088CC?style=plastic&logo=react)]
+![](https://img.shields.io/badge/__-ReactNative-#0088CC?style=plastic&logo=react)
 <br>
-![](https://img.shields.io/badge/__-HTML-#E34F26?style=plastic&logo=html5)]
+![](https://img.shields.io/badge/__-HTML-#E34F26?style=plastic&logo=html5)
 <br>
-![](https://img.shields.io/badge/__-CSS-#1572B6?style=plastic&logo=css3)]
+![](https://img.shields.io/badge/__-CSS-#1572B6?style=plastic&logo=css3)
 
 
 <br>
