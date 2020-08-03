@@ -18,20 +18,15 @@
 
 <h2> :books: I’m currently learning:</h2>
 
-[![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)](https://github.com/CaioHenriqueMachado)
-[![](https://img.shields.io/badge/|-JavaScript-F7DF1E?style=plastic&logo=javascript)](https://github.com/CaioHenriqueMachado)
-
-[![](https://img.shields.io/badge/Language-NodeJs-339933?style=plastic&logo=nodedotjs)](https://github.com/CaioHenriqueMachado)
-
-![](https://img.shields.io/badge/__-ReactJs-61DAFB?style=plastic&logo=react)
-
-
-[![](https://img.shields.io/badge/dsd-ReactNative-0088CC?style=plastic&logo=reactos)](https://github.com/CaioHenriqueMachado)
-
-[![](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5)](https://github.com/CaioHenriqueMachado)
+![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)
+![](https://img.shields.io/badge/|-JavaScript-F7DF1E?style=plastic&logo=javascript)
+![](https://img.shields.io/badge/|-NodeJs-339933?style=plastic&logo=notion)
+![](https://img.shields.io/badge/|-ReactJs-61DAFB?style=plastic&logo=react)
+![](https://img.shields.io/badge/|-ReactNative-0088CC?style=plastic&logo=reactos)
+![](https://img.shields.io/badge/|-HTML-E34F26?style=plastic&logo=html5)
+![](https://img.shields.io/badge/|-CSS-1572B6?style=plastic&logo=css3)
 <br>
-[![](https://img.shields.io/badge/:grey__exclamation:-CSS-1572B6?style=plastic&logo=css3)](https://github.com/CaioHenriqueMachado)
-
+<hr/>
 
 <br>
 <br>
