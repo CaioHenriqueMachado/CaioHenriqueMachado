@@ -34,40 +34,43 @@
 (obs: Descrição em português por enquanto :grimacing:)
 <br>
  :white_square_button: Lista de desafios para aprender linguagem C.
- (:point_right: <a href="https://github.com/CaioHenriqueMachado/Linguagem_C">Preview</a>)
+ (<a href="https://github.com/CaioHenriqueMachado/Linguagem_C">Preview</a>)
 <br>
  :white_square_button: Lista de desafios e ensinamentos básicos Python .
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/Contribuindo_com_Python">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/Contribuindo_com_Python">Preview</a>)
 <br>
  :white_square_button: Artigo Ciêntifico sobre Evolução Molecular Computacional.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/Computational-Molecular-Evolution">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/Computational-Molecular-Evolution">Preview</a>)
 <br>
  :white_square_button: Sistema de doação monetária.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/BE-THE-HERO-project">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/BE-THE-HERO-project">Preview</a>)
 <br>
  :white_square_button: Sistema de coleta de lixo.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/Ecoleta-project">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/Ecoleta-project">Preview</a>)
 <br>
  :white_square_button: Sistema de organização de tarefas.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/VIPER-TASKS-project">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/VIPER-TASKS-project">Preview</a>)
 <br>
  :white_square_button: Sistema de localização de desenvolvedores.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/DevRadar-project">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/DevRadar-project">Preview</a>)
 <br>
  :white_square_button: Quiz sobre atividades físicas na pandemia.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/QuizViperX-project">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/QuizViperX-project">Preview</a>)
 <br>
  :white_square_button: Templates WebSites.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/Templates-WebSite">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/Templates-WebSite">Preview</a>)
 <br>
  :white_square_button: Sistema de previsão do tempo.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/TodayIsWeather">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/TodayIsWeather">Preview</a>)
 <br>
  :white_square_button: Sistema conversor de base numérica.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/Numeric-base-converter">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/Numeric-base-converter">Preview</a>)
 <br>
  :white_square_button: Calculadoras básica Web.
-(:point_right: <a href="https://github.com/CaioHenriqueMachado/Basic-calculator">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/Basic-calculator">Preview</a>)
+<br>
+ :white_square_button: Plataforma de estudos online. (MOBILE e WEB)
+(<a href="https://github.com/CaioHenriqueMachado/Basic-calculator">Preview</a>)
 <br>
  :white_large_square: Sistema integração da bolsa de valores.
   ( :warning:)
