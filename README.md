@@ -70,7 +70,7 @@
 (<a href="https://github.com/CaioHenriqueMachado/Basic-calculator">Preview</a>)
 <br>
  :white_square_button: Plataforma de estudos online. (MOBILE e WEB)
-(<a href="https://github.com/CaioHenriqueMachado/Basic-calculator">Preview</a>)
+(<a href="https://github.com/CaioHenriqueMachado/PROFFY-project">Preview</a>)
 <br>
  :white_large_square: Sistema integração da bolsa de valores.
   ( :warning:)
