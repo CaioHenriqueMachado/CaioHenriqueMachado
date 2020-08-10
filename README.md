@@ -7,13 +7,13 @@
 
 <h2 >📫 How to reach me:</h2>
 
-<p align="center">
+<div align="center">
 
 [![](https://img.shields.io/badge/LINKEDIN-Caio_Machado-informational?style=plastic&logo=linkedin)](https://www.linkedin.com/in/caiohmachadoo/)
 [![](https://img.shields.io/badge/FACEBOOK-Caio_Machado-blue?style=plastic&logo=facebook)](https://www.facebook.com/Caio.Henri.Machado/)
 [![](https://img.shields.io/badge/INSTAGRAM-@cai0__m-blueviolet?style=plastic&logo=instagram)](https://www.instagram.com/cai0_m/)
 
-</p>
+</div>
 <br>
 <hr/>
 
@@ -40,42 +40,29 @@
 
  - [x] Lista de desafios para aprender linguagem C.
  (<a href="https://github.com/CaioHenriqueMachado/Linguagem_C">Preview</a>)
-<br>
-
  - [x] Lista de desafios e ensinamentos básicos Python .
 (<a href="https://github.com/CaioHenriqueMachado/Contribuindo_com_Python">Preview</a>)
-<br>
- :white_square_button: Artigo Ciêntifico sobre Evolução Molecular Computacional.
+ - [x] Artigo Ciêntifico sobre Evolução Molecular Computacional.
 (<a href="https://github.com/CaioHenriqueMachado/Computational-Molecular-Evolution">Preview</a>)
-<br>
- :white_square_button: Sistema de doação monetária.
+ - [x] Sistema de doação monetária.
 (<a href="https://github.com/CaioHenriqueMachado/BE-THE-HERO-project">Preview</a>)
-<br>
- :white_square_button: Sistema de coleta de lixo.
+ - [x] Sistema de coleta de lixo.
 (<a href="https://github.com/CaioHenriqueMachado/Ecoleta-project">Preview</a>)
-<br>
- :white_square_button: Sistema de organização de tarefas.
+ - [x] Sistema de organização de tarefas.
 (<a href="https://github.com/CaioHenriqueMachado/VIPER-TASKS-project">Preview</a>)
-<br>
- :white_square_button: Sistema de localização de desenvolvedores.
+ - [x] Sistema de localização de desenvolvedores.
 (<a href="https://github.com/CaioHenriqueMachado/DevRadar-project">Preview</a>)
-<br>
- :white_square_button: Quiz sobre atividades físicas na pandemia.
+ - [x] Quiz sobre atividades físicas na pandemia.
 (<a href="https://github.com/CaioHenriqueMachado/QuizViperX-project">Preview</a>)
-<br>
- :white_square_button: Templates WebSites.
+ - [x] Templates WebSites.
 (<a href="https://github.com/CaioHenriqueMachado/Templates-WebSite">Preview</a>)
-<br>
- :white_square_button: Sistema de previsão do tempo.
+ - [x] Sistema de previsão do tempo.
 (<a href="https://github.com/CaioHenriqueMachado/TodayIsWeather">Preview</a>)
-<br>
- :white_square_button: Sistema conversor de base numérica.
+ - [x] Sistema conversor de base numérica.
 (<a href="https://github.com/CaioHenriqueMachado/Numeric-base-converter">Preview</a>)
-<br>
- :white_square_button: Calculadoras básica Web.
+ - [x] Calculadoras básica Web.
 (<a href="https://github.com/CaioHenriqueMachado/Basic-calculator">Preview</a>)
-<br>
- :white_square_button: Plataforma de estudos online. (MOBILE e WEB)
+ - [x] Plataforma de estudos online. (MOBILE e WEB)
 (<a href="https://github.com/CaioHenriqueMachado/PROFFY-project">Preview</a>)
 <br>
  :white_large_square: Sistema integração da bolsa de valores.
