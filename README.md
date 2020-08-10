@@ -33,10 +33,12 @@
 <h2> :pushpin: I'm currently working with:</h2>
 (obs: Descrição em português por enquanto :grimacing:)
 <br>
- :white_square_button: Lista de desafios para aprender linguagem C.
+
+ - [x] Lista de desafios para aprender linguagem C.
  (<a href="https://github.com/CaioHenriqueMachado/Linguagem_C">Preview</a>)
 <br>
- :white_square_button: Lista de desafios e ensinamentos básicos Python .
+
+ - [x] Lista de desafios e ensinamentos básicos Python .
 (<a href="https://github.com/CaioHenriqueMachado/Contribuindo_com_Python">Preview</a>)
 <br>
  :white_square_button: Artigo Ciêntifico sobre Evolução Molecular Computacional.
@@ -92,17 +94,21 @@
 <br>
  :white_large_square: Calendário.
  ( :warning:)
+
+ <p> -[]  Chat em temo real.
+ ( :warning:)</p>
+
 <br>
- :white_large_square: Chat em temo real.
+
+ <strong> -[] Automação de respostas do WhatsApp.
+ ( :warning:) </strong>
+<br>
+
+ -[] <>Automação do instagram.</>
  ( :warning:)
 <br>
- :white_large_square: Automação de respostas do WhatsApp.
- ( :warning:)
-<br>
- :white_large_square: Automação do instagram.
- ( :warning:)
-<br>
- :white_large_square: Sistema criador de Layout de site.
+
+ -[] Sistema criador de Layout de site.
  ( :warning:)
 <br>
 <hr>
