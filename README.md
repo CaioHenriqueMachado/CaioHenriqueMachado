@@ -68,7 +68,6 @@
 (<a href="https://github.com/CaioHenriqueMachado/PROFFY-project">Preview</a>)
  - [x] Desenvolvimento do jogo Snake.
 (<a href="https://github.com/CaioHenriqueMachado/Snake">Preview</a>)
-<br>
  :white_large_square: Sistema integração da bolsa de valores.
   ( :warning:)
 <br>
