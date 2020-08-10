@@ -21,6 +21,7 @@
 <br>
 
 <h2> :books: I’m currently learning:</h2>
+<div align="center">
 
 ![](https://img.shields.io/badge/Python-Data__analysis-3776AB?style=plastic&logo=python)
 ![](https://img.shields.io/badge/|-JavaScript-F7DF1E?style=plastic&logo=javascript)
@@ -29,7 +30,8 @@
 ![](https://img.shields.io/badge/|-ReactNative-0088CC?style=plastic&logo=reactos)
 ![](https://img.shields.io/badge/|-HTML-E34F26?style=plastic&logo=html5)
 ![](https://img.shields.io/badge/|-CSS-1572B6?style=plastic&logo=css3)
-<br>
+
+</div>
 <hr/>
 
 <br>
@@ -64,6 +66,8 @@
 (<a href="https://github.com/CaioHenriqueMachado/Basic-calculator">Preview</a>)
  - [x] Plataforma de estudos online. (MOBILE e WEB)
 (<a href="https://github.com/CaioHenriqueMachado/PROFFY-project">Preview</a>)
+ - [x] Desenvolvimento do jogo Snake.
+(<a href="https://github.com/CaioHenriqueMachado/Snake">Preview</a>)
 <br>
  :white_large_square: Sistema integração da bolsa de valores.
   ( :warning:)
@@ -85,23 +89,18 @@
 <br>
  :white_large_square: Calendário.
  ( :warning:)
-
- <p> -[ ]  Chat em temo real.
- ( :warning:)</p>
-
 <br>
-
- <strong> -[ ] Automação de respostas do WhatsApp.
- ( :warning:) </strong>
-<br>
-
- -[ ] <>Automação do instagram.</>
+ :white_large_square: Chat em temo real.
  ( :warning:)
 <br>
-
- -[ ] Sistema criador de Layout de site.
+ :white_large_square: Automação de respostas do WhatsApp.
  ( :warning:)
 <br>
+ :white_large_square: Automação do instagram.
+ ( :warning:)
+<br>
+ :white_large_square: Sistema criador de Layout de site.
+ ( :warning:)
 <hr>
 
 <!--
