@@ -7,9 +7,13 @@
 
 <h2 >📫 How to reach me:</h2>
 
+<p align="center">
+
 [![](https://img.shields.io/badge/LINKEDIN-Caio_Machado-informational?style=plastic&logo=linkedin)](https://www.linkedin.com/in/caiohmachadoo/)
 [![](https://img.shields.io/badge/FACEBOOK-Caio_Machado-blue?style=plastic&logo=facebook)](https://www.facebook.com/Caio.Henri.Machado/)
 [![](https://img.shields.io/badge/INSTAGRAM-@cai0__m-blueviolet?style=plastic&logo=instagram)](https://www.instagram.com/cai0_m/)
+
+</p>
 <br>
 <hr/>
 
@@ -95,20 +99,20 @@
  :white_large_square: Calendário.
  ( :warning:)
 
- <p> -[]  Chat em temo real.
+ <p> -[ ]  Chat em temo real.
  ( :warning:)</p>
 
 <br>
 
- <strong> -[] Automação de respostas do WhatsApp.
+ <strong> -[ ] Automação de respostas do WhatsApp.
  ( :warning:) </strong>
 <br>
 
- -[] <>Automação do instagram.</>
+ -[ ] <>Automação do instagram.</>
  ( :warning:)
 <br>
 
- -[] Sistema criador de Layout de site.
+ -[ ] Sistema criador de Layout de site.
  ( :warning:)
 <br>
 <hr>
