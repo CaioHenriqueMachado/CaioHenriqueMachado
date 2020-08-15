@@ -71,8 +71,7 @@
 (<a href="https://github.com/CaioHenriqueMachado/Snake">Preview</a>)
  - [x] Sistema integração de cotação de moeda.
 (<a href="https://github.com/CaioHenriqueMachado/QuotationGraph-project">Preview</a>)
-<br>
- :white_large_square: Sistema temporizador de contagem regressiva de eventos.
+ - [ ] <label>Sistema temporizador de contagem regressiva de eventos.</label>
  ( :warning:)
 <br>
  :white_large_square: Sistema conversor de CSV para JSON (e vice-versa).
@@ -94,7 +93,7 @@
  ( :warning:)
 <br>
 
- -[] <label>Automação de respostas do WhatsApp.
+ -[o] <label>Automação de respostas do WhatsApp.
  ( :warning:)</label>
 
 <br>
