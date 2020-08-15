@@ -14,8 +14,8 @@
 [![](https://img.shields.io/badge/INSTAGRAM-@cai0__m-blueviolet?style=plastic&logo=instagram)](https://www.instagram.com/cai0_m/)
 
 </div>
+<img src="./img/line.png" alt="line" width="100%">
 <br>
-<hr/>
 
 <br>
 <br>
@@ -32,7 +32,8 @@
 ![](https://img.shields.io/badge/|-CSS-1572B6?style=plastic&logo=css3)
 
 </div>
-<hr/>
+<img src="./img/line.png" alt="line" width="100%">
+<br>
 
 <br>
 <br>
@@ -68,8 +69,8 @@
 (<a href="https://github.com/CaioHenriqueMachado/PROFFY-project">Preview</a>)
  - [x] Desenvolvimento do jogo Snake.
 (<a href="https://github.com/CaioHenriqueMachado/Snake">Preview</a>)
- :white_large_square: Sistema integração da bolsa de valores.
-  ( :warning:)
+ - [x] Sistema integração de cotação de moeda.
+(<a href="https://github.com/CaioHenriqueMachado/QuotationGraph-project">Preview</a>)
 <br>
  :white_large_square: Sistema temporizador de contagem regressiva de eventos.
  ( :warning:)
@@ -92,15 +93,21 @@
  :white_large_square: Chat em temo real.
  ( :warning:)
 <br>
- :white_large_square: Automação de respostas do WhatsApp.
- ( :warning:)
+
+ -[] <label>Automação de respostas do WhatsApp.
+ ( :warning:)</label>
+
 <br>
- :white_large_square: Automação do instagram.
- ( :warning:)
+
+ -[ ] <label>Automação do instagram.
+ ( :warning:)</label>
+
+
 <br>
  :white_large_square: Sistema criador de Layout de site.
  ( :warning:)
-<hr>
+<img src="./img/line.png" alt="line" width="100%">
+<br>
 
 <!--
 **CaioHenriqueMachado/CaioHenriqueMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
