@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/INSTAGRAM-@cai0__m-blueviolet?style=plastic&logo=instagram)](https://www.instagram.com/cai0_m/)
 
 </div>
-<img src="./img/line.png" alt="line" width="100%">
+<img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
 <br>
 
 <br>
@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/|-CSS-1572B6?style=plastic&logo=css3)
 
 </div>
-<img src="./img/line.png" alt="line" width="100%">
+<img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
 <br>
 
 <br>
@@ -82,7 +82,7 @@
  - [ ] <label>Automação do instagram. (:warning:)</label>
  - [ ] <label>Sistema criador de Layout de site. (:warning:)</label>
 
-<img src="./img/line.png" alt="line" width="100%">
+<img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
 <br>
 
 <!--
