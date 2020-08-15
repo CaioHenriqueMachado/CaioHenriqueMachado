@@ -2,8 +2,6 @@
 <br>
 <h2 align="center"> :octocat: Welcome to my profile!! </h2>
 <br>
-<br>
-
 
 <h2 >📫 How to reach me:</h2>
 
@@ -15,9 +13,6 @@
 
 </div>
 <img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
-<br>
-
-<br>
 <br>
 
 <h2> :books: I’m currently learning:</h2>
@@ -35,8 +30,6 @@
 <img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
 <br>
 
-<br>
-<br>
 <h2> :pushpin: I'm currently working with:</h2>
 (obs: Descrição em português por enquanto :grimacing:)
 <br>
@@ -83,7 +76,7 @@
  - [ ] <label>Sistema criador de Layout de site. (:warning:)</label>
 
 <img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
-<br>
+
 
 <!--
 **CaioHenriqueMachado/CaioHenriqueMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
