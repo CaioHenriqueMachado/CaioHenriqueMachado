@@ -71,40 +71,17 @@
 (<a href="https://github.com/CaioHenriqueMachado/Snake">Preview</a>)
  - [x] Sistema integração de cotação de moeda.
 (<a href="https://github.com/CaioHenriqueMachado/QuotationGraph-project">Preview</a>)
- - [ ] <label>Sistema temporizador de contagem regressiva de eventos.</label>
- ( :warning:)
-<br>
- :white_large_square: Sistema conversor de CSV para JSON (e vice-versa).
- ( :warning:)
-<br>
- :white_large_square: Jogo da memória.
- ( :warning:)
-<br>
- :white_large_square: Sistema conversor de moedas.
- ( :warning:)
-<br>
- :white_large_square: Sistema velocímetro de digitação.
- ( :warning:)
-<br>
- :white_large_square: Calendário.
- ( :warning:)
-<br>
- :white_large_square: Chat em temo real.
- ( :warning:)
-<br>
+ - [ ] <label>Sistema temporizador de contagem regressiva de eventos. (:warning:) </label>
+ - [ ] <label>Sistema conversor de CSV para JSON (e vice-versa). (:warning:) </label>
+ - [ ] <label>Jogo da memória. (:warning:) </label>
+ - [ ] <label>Sistema conversor de moedas. (:warning:) </label>
+ - [ ] <label>Sistema velocímetro de digitação. (:warning:) </label>
+ - [ ] <label>Calendário. (:warning:) </label>
+ - [ ] <label>Chat em temo real. (:warning:) </label>
+ - [ ] <label>Automação de respostas do WhatsApp. (:warning:) </label>
+ - [ ] <label>Automação do instagram. (:warning:)</label>
+ - [ ] <label>Sistema criador de Layout de site. (:warning:)</label>
 
- -[o] <label>Automação de respostas do WhatsApp.
- ( :warning:)</label>
-
-<br>
-
- -[ ] <label>Automação do instagram.
- ( :warning:)</label>
-
-
-<br>
- :white_large_square: Sistema criador de Layout de site.
- ( :warning:)
 <img src="./img/line.png" alt="line" width="100%">
 <br>
 
