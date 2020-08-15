@@ -64,12 +64,13 @@
 (<a href="https://github.com/CaioHenriqueMachado/Snake">Preview</a>)
  - [x] Sistema integração de cotação de moeda.
 (<a href="https://github.com/CaioHenriqueMachado/QuotationGraph-project">Preview</a>)
- - [ ] <label>Sistema temporizador de contagem regressiva de eventos. (:warning:) </label>
+ - [ ] <label>Cronômetro de tarefas para ajudar na produtividade pessoal. (:warning:) </label>
  - [ ] <label>Sistema conversor de CSV para JSON (e vice-versa). (:warning:) </label>
  - [ ] <label>Jogo da memória. (:warning:) </label>
  - [ ] <label>Sistema conversor de moedas. (:warning:) </label>
  - [ ] <label>Sistema velocímetro de digitação. (:warning:) </label>
  - [ ] <label>Calendário. (:warning:) </label>
+ - [ ] <label>Calculo de consumo calórico. (:warning:) </label>
  - [ ] <label>Chat em temo real. (:warning:) </label>
  - [ ] <label>Automação de respostas do WhatsApp. (:warning:) </label>
  - [ ] <label>Automação do instagram. (:warning:)</label>
