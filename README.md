@@ -68,7 +68,6 @@
 (<a href="https://github.com/CaioHenriqueMachado/PomodoroClock-project">Preview</a>)
  - [ ] <label>Sistema conversor de CSV para JSON (e vice-versa). (:warning:) </label>
  - [ ] <label>Jogo da memória. (:warning:) </label>
- - [ ] <label>Sistema conversor de moedas. (:warning:) </label>
  - [ ] <label>Sistema velocímetro de digitação. (:warning:) </label>
  - [ ] <label>Calendário. (:warning:) </label>
  - [ ] <label>Calculo de consumo calórico. (:warning:) </label>
