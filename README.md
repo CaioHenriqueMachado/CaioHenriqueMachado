@@ -64,7 +64,8 @@
 (<a href="https://github.com/CaioHenriqueMachado/Snake">Preview</a>)
  - [x] Sistema integração de cotação de moeda.
 (<a href="https://github.com/CaioHenriqueMachado/QuotationGraph-project">Preview</a>)
- - [ ] <label>Cronômetro de tarefas para ajudar na produtividade pessoal. (:warning:) </label>
+ - [x]Cronômetro de tarefas para ajudar na produtividade pessoal.
+(<a href="https://github.com/CaioHenriqueMachado/PomodoroClock-project">Preview</a>)
  - [ ] <label>Sistema conversor de CSV para JSON (e vice-versa). (:warning:) </label>
  - [ ] <label>Jogo da memória. (:warning:) </label>
  - [ ] <label>Sistema conversor de moedas. (:warning:) </label>
