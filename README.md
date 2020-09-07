@@ -70,8 +70,9 @@
  (<a href="https://github.com/CaioHenriqueMachado/JsonToCsv">Preview</a>)
  - [x] Jogo da memória.
   (<a href="https://github.com/CaioHenriqueMachado/Jogo-da-memoria">Preview</a>)
+ - [x] Calendário.
+  (<a href="https://github.com/CaioHenriqueMachado/Calendario">Preview</a>)
  - [ ] <label>Sistema velocímetro de digitação. (:warning:) </label>
- - [ ] <label>Calendário. (:warning:) </label>
  - [ ] <label>Calculo de consumo calórico. (:warning:) </label>
  - [ ] <label>Chat em temo real. (:warning:) </label>
  - [ ] <label>Automação de respostas do WhatsApp. (:warning:) </label>
