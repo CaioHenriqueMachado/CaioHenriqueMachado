@@ -72,6 +72,8 @@
   (<a href="https://github.com/CaioHenriqueMachado/Jogo-da-memoria">Preview</a>)
  - [x] Calendário.
   (<a href="https://github.com/CaioHenriqueMachado/Calendario">Preview</a>)
+ - [x] Happy - Visita e cadastro de casas de acolhimento institucional. (MOBILE e WEB)
+  (<a href="https://github.com/CaioHenriqueMachado/Happy-project">Preview</a>)
  - [ ] <label>Sistema velocímetro de digitação. (:warning:) </label>
  - [ ] <label>Calculo de consumo calórico. (:warning:) </label>
  - [ ] <label>Chat em temo real. (:warning:) </label>
