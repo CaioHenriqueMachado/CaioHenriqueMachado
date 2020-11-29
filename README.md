@@ -78,10 +78,7 @@
   (<a href="https://github.com/CaioHenriqueMachado/velocimetro-digitacao">Preview</a>)
  - [x] Calculo de consumo calórico.
   (<a href="https://github.com/CaioHenriqueMachado/Assistente-nutricional">Preview</a>)
- - [ ] <label>Chat em temo real. (:warning:) </label>
- - [ ] <label>Automação de respostas do WhatsApp. (:warning:) </label>
- - [ ] <label>Automação do instagram. (:warning:)</label>
- - [ ] <label>Sistema criador de Layout de site. (:warning:)</label>
+ - [ ] Estudando sobre inteligência Artificial.
 
 <img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
 
@@ -99,4 +96,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+PROJETOS:
+ - [ ] <label>Chat em temo real. (:warning:) </label>
+ - [ ] <label>Automação de respostas do WhatsApp. (:warning:) </label>
+ - [ ] <label>Automação do instagram. (:warning:)</label>
+ - [ ] <label>Sistema criador de Layout de site. (:warning:)</label>
+
 -->
