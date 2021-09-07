@@ -78,6 +78,8 @@
   (<a href="https://github.com/CaioHenriqueMachado/velocimetro-digitacao">Preview</a>)
  - [x] Calculo de consumo calórico.
   (<a href="https://github.com/CaioHenriqueMachado/Assistente-nutricional">Preview</a>)
+ - [x] Agenda
+  (<a href="https://github.com/CaioHenriqueMachado/AgendaApp">Preview</a>)
  - [ ] Estudando sobre inteligência Artificial.
 
 <img src="https://github.com/CaioHenriqueMachado/CaioHenriqueMachado/blob/master/img/line.png" alt="line" width="100%">
